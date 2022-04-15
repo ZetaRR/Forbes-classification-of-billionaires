@@ -31,8 +31,10 @@
 ---
 ### Models 📠📠📠
 * Ridge Classifier
+
 ![Ridge](https://snipboard.io/b6XKl0.jpg)
 * LogisticRegression
+
 ![Logistic Regression](https://snipboard.io/v3TUbS.jpg)
 * DecisionTree Classifier
 ![DecisionTreeClassifier](https://snipboard.io/BUJI8K.jpg)
