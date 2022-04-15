@@ -68,6 +68,7 @@
 ---
 ### Interpretability ⚙️⚙️⚙️
 *SHAP — which stands for SHapley Additive exPlanations — is probably the state of the art in Machine Learning explainability. This algorithm was first published in 2017 by Lundberg and Lee and it is a brilliant way to reverse-engineer the output of any predictive algorithm. In a nutshell, SHAP values are used whenever you have a complex model (could be a gradient boosting, a neural network, or anything that takes some features as input and produces some predictions as output) and you want to understand what decisions the model is making.*
+
 [Original Paper about SHAP values](https://arxiv.org/abs/1705.07874)
 * Feature importance calculated by SHAP value
 ![Feature importance calculated by SHAP value](https://snipboard.io/8gXJMb.jpg)
