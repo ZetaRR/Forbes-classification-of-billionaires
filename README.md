@@ -71,10 +71,13 @@
 
 [Original Paper about SHAP values](https://arxiv.org/abs/1705.07874)
 * Feature importance calculated by SHAP value
+* 
 ![Feature importance calculated by SHAP value](https://snipboard.io/8gXJMb.jpg)
 * How features influence decision-making in different cases (row[1])
+* 
 ![features influence decision-making](https://snipboard.io/m4anhd.jpg)
 * How features influence decision-making in different cases (row[20])
+* 
 ![features influence decision-making](https://snipboard.io/AlDuRv.jpg)
 ---
 ### Reference
