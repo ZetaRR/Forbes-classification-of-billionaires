@@ -37,18 +37,25 @@
 
 ![Logistic Regression](https://snipboard.io/v3TUbS.jpg)
 * DecisionTree Classifier
+
 ![DecisionTreeClassifier](https://snipboard.io/BUJI8K.jpg)
 * RandomForest Classifier
+
 ![RandomForestClassifier](https://snipboard.io/cWkwxd.jpg)
 * GradientBoosting Classifier
+
 ![GradientBoostingClassifier](https://snipboard.io/D1JWON.jpg)
 * AdaBoost Classifier
+
 ![AdaBoostClassifier](https://snipboard.io/yuSqBI.jpg)
 * CatBoost Classifier
+
 ![CatBoost](https://snipboard.io/Jnwoe7.jpg)
 * Voting Classifier (RandomForest Classifier with GradientBoosting Classifier (*hard voting*))
+
 ![Voting Classifier hard](https://snipboard.io/6o5aBr.jpg)
 * Voting Classifier (RandomForest Classifier with GradientBoosting Classifier (*soft voting*))
+
 ![Voting Classifier easy](https://snipboard.io/SgkpeN.jpg)
 * Bar plot containing Test accuracy results of Models
 ![df with results](https://snipboard.io/v1Tehl.jpg)
