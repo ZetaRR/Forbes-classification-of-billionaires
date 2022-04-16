@@ -1,4 +1,4 @@
-## Forbes Financial and Tech Billionaires
+## Forbes Financial and Tech Billionaires 💰
 ![Project Photo](https://mms.businesswire.com/media/20210826005471/en/1187937/5/Forbes-Black.jpg)
 ---
 ### Disclaimer 🔺
