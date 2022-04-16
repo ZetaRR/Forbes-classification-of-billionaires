@@ -89,3 +89,5 @@
 [3] https://rapidapi.com/snldnc-kpCtDKbxo_F/api/forbes-worlds-billionaires-list/pricing
 
 [4] https://images.forbes.com/the-forbes-400/the-forbes-400-thumbnail.jpg
+
+[5] https://www.kaggle.com/code/dansbecker/advanced-uses-of-shap-values
