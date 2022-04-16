@@ -84,3 +84,5 @@
 [1] https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30
 
 [2] https://stats.stackexchange.com/questions/558060/range-of-values-for-hyperparameter-fine-tuning-in-random-forest-classification
+
+[3] https://rapidapi.com/snldnc-kpCtDKbxo_F/api/forbes-worlds-billionaires-list/pricing
