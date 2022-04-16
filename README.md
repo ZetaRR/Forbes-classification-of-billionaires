@@ -1,5 +1,5 @@
 ## Forbes Financial and Tech Billionaires 💰
-![Project Photo](https://mms.businesswire.com/media/20210826005471/en/1187937/5/Forbes-Black.jpg)
+![Project Photo](https://images.forbes.com/the-forbes-400/the-forbes-400-thumbnail.jpg)
 ---
 ### Disclaimer 🔺
 * Please open all .ipynb notebooks in google.colab , because github has problems with showing visualization packages.
