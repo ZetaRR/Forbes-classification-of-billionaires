@@ -1,6 +1,6 @@
 ## Forbes Financial and Tech Billionaires 💰
 ![Project Photo](https://images.forbes.com/the-forbes-400/the-forbes-400-thumbnail.jpg)
----
+
 ### Disclaimer 🔺
 * Please open all .ipynb notebooks in google.colab , because github has problems with showing visualization packages.
 ![disclaimer](https://snipboard.io/uHI1v5.jpg)
