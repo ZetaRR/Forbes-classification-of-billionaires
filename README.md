@@ -58,6 +58,7 @@
 
 ![Voting Classifier easy](https://snipboard.io/SgkpeN.jpg)
 * Bar plot containing Test accuracy results of Models
+* 
 ![df with results](https://snipboard.io/v1Tehl.jpg)
 ---
 ### Fine-tuning 🕹🕹🕹
