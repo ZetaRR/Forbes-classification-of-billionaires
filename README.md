@@ -1,25 +1,25 @@
 ## Forbes Financial and Tech Billionaires 💰
 ![Project Photo](https://images.forbes.com/the-forbes-400/the-forbes-400-thumbnail.jpg)
 
-### Disclaimer 🔺
+### Disclaimer 
 * Please open all .ipynb notebooks in google.colab , because github has problems with showing visualization packages.
 ![disclaimer](https://snipboard.io/uHI1v5.jpg)
 ---
-### Project Overview 🔎🔎🔎
+### Project Overview 
 * In the given project binary classification was conducted, main idea is to make an algorithm that can divide between Financial and Tech billionaires from the API Forbes data.
 ---
-### How this project will help? ❔❔❔
+### How this project will help? 
 * This project can help journalist to fill information for upcoming billionaires, also conducted EDA helps to spot some correlations between different open-source information about billionaires/millionaires that could be used in social studies.
 ---
-### Resources Used 🔨🔨🔨
+### Resources Used 
 * *Packages: pandas, catboost, shap, sklearn, google, numpy, matplotlib, seaborn, plotly, missingno, os, datetime, imblearn*
 * *Data: Public Forbes API https://rapidapi.com/snldnc-kpCtDKbxo_F/api/forbes-worlds-billionaires-list/pricing*
 ---
-### Details of Project 🚨🚨🚨
+### Details of Project 
 * This project was built using Google Colab. Therefore to view plotly plots you should view notebook by opening colab notebook.
 * In this github repository there are two notebooks. First of them - ```ForbesData.ipynb``` which has data extraction from Forbes API. Second one is ```ForbesBinaryClassification.ipynb``` - which has EDA & Building model process.
 ---
-### Phases in ForbesBinaryClassification 🚧🚧🚧
+### Phases in ForbesBinaryClassification 
 1. Installation & Import of required libraries
 2. Structure Investigation
 3. Exploratory Data Analysis (EDA)
@@ -29,7 +29,7 @@
 7. Fine tuning
 8. Interpretability
 ---
-### Models 📠📠📠
+### Models 
 * Ridge Classifier
 
 ![Ridge](https://snipboard.io/b6XKl0.jpg)
@@ -61,13 +61,13 @@
 
 ![df with results](https://snipboard.io/v1Tehl.jpg)
 ---
-### Fine-tuning 🕹🕹🕹
+### Fine-tuning 
 * For fine-tuning RandomForestClassifier was choosen. ```GridSearchCV``` were used for finding optimal parameters. Fine-tuned parameters
 1. ```n-estimators``` - The number of trees in the forest.
 2. ```max_depth``` - The maximum depth of the tree. If None, then nodes are expanded until all leaves are pure or until all leaves contain less than min_samples_split samples.
 3. ```min_samples_split``` - The minimum number of samples required to split an internal node
 ---
-### Interpretability ⚙️⚙️⚙️
+### Interpretability 
 *SHAP — which stands for SHapley Additive exPlanations — is probably the state of the art in Machine Learning explainability. This algorithm was first published in 2017 by Lundberg and Lee and it is a brilliant way to reverse-engineer the output of any predictive algorithm. In a nutshell, SHAP values are used whenever you have a complex model (could be a gradient boosting, a neural network, or anything that takes some features as input and produces some predictions as output) and you want to understand what decisions the model is making.*
 
 [Original Paper about SHAP values](https://arxiv.org/abs/1705.07874)
